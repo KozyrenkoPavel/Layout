@@ -11,6 +11,7 @@
   justify-content: center;
   align-items: center;
   font-family: 'Inter', sans-serif;
+  background-color: rgb(75, 73, 73);
 }
 
 .container__wrapper {
